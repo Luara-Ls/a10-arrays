@@ -1,7 +1,7 @@
 let array1 = [2, 1, 5, 9, 4, 8, 7, 6];
+console.log(array1)
 console.log("Quantidade de itens Array 1:", array1.length)
 console.log("Primeiro Item do Primeiro Array:", array1[0])
-console.log (array1.includes(7))
 
 
 
